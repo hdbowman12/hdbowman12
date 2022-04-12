@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @hdbowman12
-- 👀 I’m interested in Data Science and Software Engineering
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hdbowman12/hdbowman12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Software Engineering, Data Science, and CyberSecurity
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything that gets me experience in software skills
+- 📫 How to reach me hdbowman94@gmail.com
